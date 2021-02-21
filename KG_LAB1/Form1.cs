@@ -305,7 +305,7 @@ namespace KG_LAB1
             if (!IsInRange(0, 100, (double)v_nd.Value))
             {
                 v_nd.Value = 0;
-                MessageBox.Show("Значение должно лежать в промежутке от 0 до 100 :)");
+                MessageBox.Show("Значение должно лежать в промежутке от 0 до 100 :)");  
                 return;
             }
 
