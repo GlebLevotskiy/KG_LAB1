@@ -7,10 +7,10 @@
 ### изменения рассчитываемого параметра) выдавать некое ненавязчивое предупреждение, что происходит обрезание-округление и т.п.
 ## Для запуска приложения перейти в *bin*Release, скачать .exe и запустить.
 
-![https://github.com/GlebLevotskiy/KG_LAB1/blob/master/KG_LAB1/Resourses/Images/1.jpg]
+![https://github.com/GlebLevotskiy/KG_LAB1/blob/master/KG_LAB1/Resourses/Images/1.jpg]()
 
-![https://github.com/GlebLevotskiy/KG_LAB1/blob/master/KG_LAB1/Resourses/Images/2.jpg]
+![https://github.com/GlebLevotskiy/KG_LAB1/blob/master/KG_LAB1/Resourses/Images/2.jpg]()
 
-![https://github.com/GlebLevotskiy/KG_LAB1/blob/master/KG_LAB1/Resourses/Images/3.jpg]
+![https://github.com/GlebLevotskiy/KG_LAB1/blob/master/KG_LAB1/Resourses/Images/3.jpg]()
 
-!(https://github.com/GlebLevotskiy/KG_LAB1/blob/master/KG_LAB1/Resourses/Images/4.jpg)
+![https://github.com/GlebLevotskiy/KG_LAB1/blob/master/KG_LAB1/Resourses/Images/4.jpg]()
